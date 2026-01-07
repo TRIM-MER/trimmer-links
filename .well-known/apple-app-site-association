@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "PBHQMSG2T2.example.trimmerr",
+        "paths": [
+          "/join/*",
+          "/*/join/*"
+        ]
+      }
+    ]
+  }
+}
