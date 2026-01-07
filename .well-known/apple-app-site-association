@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "PBHQMSG2T2.example.trimmerr",
+        "appID": "PBHQMSG2T2.io.trimmer.app",
         "paths": [
           "/join/*",
           "/*/join/*"
